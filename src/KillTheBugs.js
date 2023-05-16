@@ -93,7 +93,7 @@ const KillTheBugs = () => {
                 }
                 <div id="footer">
                     <p>Created by MalvinVal</p>
-                    <p>View the source code <a href='https://github.com/malvinval/tic-tac-toe'>here</a>.</p>
+                    <p>View the source code <a href='https://github.com/malvinval/kill-the-bugs-game'>here</a>.</p>
                 </div>
             </div>
         </>
