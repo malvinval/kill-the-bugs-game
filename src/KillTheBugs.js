@@ -91,6 +91,10 @@ const KillTheBugs = () => {
                         setAttempts(0);
                     }}>PLAY</button>
                 }
+                <div id="footer">
+                    <p>Created by MalvinVal</p>
+                    <p>View the source code <a href='https://github.com/malvinval/tic-tac-toe'>here</a>.</p>
+                </div>
             </div>
         </>
     );

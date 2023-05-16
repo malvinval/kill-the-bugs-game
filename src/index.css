@@ -74,6 +74,29 @@ span {
   text-align: center;
 }
 
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #146C94;
+  text-align: center;
+  line-height: 1px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: aliceblue;
+}
+
+#footer p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+#footer p a {
+  color: white;
+}
+
 @keyframes shake {
   0% {
     transform: rotate(-10deg);
