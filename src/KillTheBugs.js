@@ -8,6 +8,7 @@ const KillTheBugs = () => {
     const easyTimeLimit = 2;
     const mediumTimeLimit = 1.6;
     const hardTimeLimit = 1.3;
+    const proTimeLimit = 1.1;
     const MySwal = withReactContent(Swal);
     const [attempts, setAttempts] = useState(0);
     const [square, setSquare] = useState(Array(12).fill("x"));
@@ -64,6 +65,7 @@ const KillTheBugs = () => {
                         <option value={easyTimeLimit}>Easy ({easyTimeLimit} secs)</option>
                         <option value={mediumTimeLimit}>Medium ({mediumTimeLimit} secs)</option>
                         <option value={hardTimeLimit}>Hard ({hardTimeLimit} secs)</option>
+                        <option value={proTimeLimit}>PRO ({proTimeLimit} secs)</option>
                     </select>
                 }
                 <div id="game-arena">
