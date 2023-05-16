@@ -3,7 +3,8 @@
 1. You are only allowed to kill one bug at a time.
 2. There are 12 bugs. Your task is to kill them with the lowest possible score of 'attempts'. The 'attempts' score counts how many times you kill a bug.
 3. The best 'attempts' score you can achieve is 12, which means you kill all the bugs with only one try.
-4. This game does not support any violence towards animals. Calm down, this is just a silly game!
+4. Dead bugs will respawn simultaneously after few seconds since you killed them, depending on the difficulty. 
+5. This game does not support any violence towards animals. Calm down, this is just a silly game!
 
 ## Installation
 To install and run this Tic Tac Toe game locally on your computer, you need to have Node.js and Git installed.
